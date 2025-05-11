@@ -1,6 +1,6 @@
 # 🧠 Employee Attrition Prediction (Final ML Project - NYU)
 
-This project uses supervised machine learning models to predict employee attrition using structured HR data. It was developed as part of NYU’s Machine Learning course and received outstanding feedback for its real-world applicability, robustness, and explainability.
+This project uses supervised machine learning models to predict employee attrition using structured HR data. It was developed as part of NYU’s Machine Learning course and received **outstanding feedback from the instructor** for its real-world relevance, robustness, and ethical focus.
 
 ## 📄 Abstract
 
@@ -13,6 +13,14 @@ Attrition leads to loss of talent, increased recruitment costs, and lowered prod
 - `employee_attrition_prediction.ipynb` — Google Colab notebook with code, EDA, modeling, and evaluation
 - `ML_Project_Report.pdf` — Full project report with methods, results, and key insights
 - `README.md` — This file
+
+---
+
+## 🏅 Instructor Feedback
+
+> "**Excellent work on this project!** You’ve gone above and beyond expectations in terms of scope, practical applicability, and rigor.  
+> Your focus on explainability, fairness, and real-world HR impact is exactly how machine learning should be applied.  
+> You’ve clearly understood the purpose of the project, evaluated your model pipeline thoroughly, and thought deeply about interpretation."
 
 ---
 
